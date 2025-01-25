@@ -1,6 +1,5 @@
 # Activity-2
-Seconds Evaluation Application
-Overview
+
 This is a C# Windows Forms application created by Victor Perdue as part of CST-150 Activity 2. The purpose of the application is to evaluate a given number of seconds entered by the user and provide calculations for how many minutes, hours, and days are contained in that number.
 
 Features
